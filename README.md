@@ -8,11 +8,6 @@
 Crea un nuevo PROYECTO y crea el contador que creamos en android(sin funcionalidad por ahora).
 
 
-
-
-
-
-
 ## Ejercicio 03
 #### Enunciado:
 - Parte 1:
