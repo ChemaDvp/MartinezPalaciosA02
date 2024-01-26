@@ -1,16 +1,25 @@
-# martinezpalacios_a_02
+#### Prroyecto 2 / Acceso / Flutter
 
-A new Flutter project.
+### Profesor: José Carlos
+---
 
-## Getting Started
+### Ejercicio 01
+#### Enunciado:
+Crea un nuevo PROYECTO y crea el contador que creamos en android(sin funcionalidad por ahora).
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+### Ejercicio 02
+#### Enunciado:
+- Parte 1:
+    - Deberás de crear una clase en flutter que sea una plantilla de los botones, en la que le pases el argumento de texto y sustituirlo por los 3 botones que tenemos.
+  - Parte 2:
+    - Darle funcionalidad a los botones, cambios solo por consola.
+  - Parte 3:
+    - Cambios por pantalla.
+ 
+
