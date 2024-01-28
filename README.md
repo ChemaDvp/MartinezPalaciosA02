@@ -19,11 +19,13 @@ Crea un nuevo PROYECTO y crea el contador que creamos en android(sin funcionalid
   - Parte 2:
     - Darle funcionalidad a los botones, cambios solo por consola.
 
-      
     https://github.com/ChemaDvp/MartinezPalaciosA02/assets/115820368/a69e478e-01a4-4f00-81fc-f5881a793093
 
 
   - Parte 3:
     - Cambios por pantalla.
- 
+      
+      https://github.com/ChemaDvp/MartinezPalaciosA02/assets/115820368/6dc6afe1-d6a7-4f4b-a6bc-d65ee503bd41
+
+
 
