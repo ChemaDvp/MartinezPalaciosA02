@@ -16,9 +16,13 @@ Crea un nuevo PROYECTO y crea el contador que creamos en android(sin funcionalid
       ![flutter1](https://github.com/ChemaDvp/MartinezPalaciosA02/assets/115820368/71b7a621-fdcc-4c94-835e-581d1a224607)
       ![flutter2](https://github.com/ChemaDvp/MartinezPalaciosA02/assets/115820368/3fe31b36-a4d8-4b5f-8247-fcf3c717ad41)
 
-
   - Parte 2:
     - Darle funcionalidad a los botones, cambios solo por consola.
+
+      
+    https://github.com/ChemaDvp/MartinezPalaciosA02/assets/115820368/a69e478e-01a4-4f00-81fc-f5881a793093
+
+
   - Parte 3:
     - Cambios por pantalla.
  
